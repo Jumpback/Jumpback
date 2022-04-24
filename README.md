@@ -1,17 +1,21 @@
 <h1 align="center">Hi 👋, I'm Omkar Nagare</h1>
-<h3 align="center">I love problem solving and developing projects.</h3>
+<b><h3 align="center">I love problem solving and developing projects.</h3></b>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jumpback&label=Profile%20views&color=0e75b6&style=flat" alt="jumpback" /> </p>
 
-<img src="https://img.shields.io/twitter/follow/OmkarShamNagare">
+<img src="https://img.shields.io/twitter/follow/OmkarShamNagare"><i>
+
+- 🔭 I’m currently working on **plagiarism-checker**
 
 - 🌱 I’m currently learning **MERN stack for Web Development**
 
-- 📫 How to reach me **omkarshamnagare2@gmail.com**
+- 👯 I’m looking to collaborate on **OpenSource Projects**
 
+- 📫 How to reach me **omkarshamnagare2@gmail.com**
+</i>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/omkarshamnagare" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="omkarshamnagare" height="30" width="40" /></a>
+<a href="https://twitter.com/omkarshamnagare" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="omkarshamnagare" height="30" width="40" />&nbsp;&nbsp;</a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/omkar-nagare-2a11501a4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/omkar-nagare-2a11501a4" height="30" width="40" /></a>
 </p>
 
