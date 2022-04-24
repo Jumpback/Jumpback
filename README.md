@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jumpback&label=Profile%20views&color=0e75b6&style=flat" alt="jumpback" /> </p>
 
-<img src="https://img.shields.io/twitter/follow/OmkarShamNagare.png">
+<img src="https://img.shields.io/twitter/follow/OmkarShamNagare">
 
 - 🌱 I’m currently learning **MERN stack for Web Development**
 
