@@ -5,7 +5,7 @@
 
 <img src="https://img.shields.io/twitter/follow/OmkarShamNagare"><i>
   
-<p align="left"> <a href="https://www.linkedin.com/in/omkar-nagare-2a11501a4/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="siddhigate" /></a> </p>
+<p align="left"> <a href="https://www.linkedin.com/in/omkar-nagare-2a11501a4/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="OmkarNagare" /></a> </p>
 
 - 🔭 I’m currently working on **plagiarism-checker**
 
